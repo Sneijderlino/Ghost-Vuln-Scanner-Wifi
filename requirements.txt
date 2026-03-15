@@ -1,2 +1,35 @@
+# Ghost Vuln Scanner WiFi - Requirements
+# --------------------------------------
+# File ini berfungsi ganda:
+# 1) Menyimpan paket Python untuk "pip install -r requirements.txt" (opsional).
+# 2) Menyediakan informasi lengkap installasi untuk semua dependensi sistem.
+#
+# --- A. Dependency Sistem (Wajib untuk menjalankan tool) ---
+# Tool ini adalah script Bash yang menggunakan utilitas sistem untuk melakukan
+# pemindaian Wi-Fi. Pastikan dependency berikut terpasang:
+#
+#   - aircrack-ng : suite untuk auditing Wi-Fi (mengandung airodump-ng, aireplay-ng)
+#   - xterm       : menampilkan multi-pane terminal (UI tool)
+#   - sudo        : (opsional tapi direkomendasikan) untuk menjalankan dengan hak root
+#
+# Contoh instalasi (Debian / Kali Linux):
+#   sudo apt update
+#   sudo apt install -y aircrack-ng xterm sudo
+#
+# Contoh instalasi (Termux):
+#   pkg update
+#   pkg upgrade
+#   pkg install -y git python aircrack-ng xterm termux-tools
+#
+# Catatan penting:
+# - Pastikan adapter Wi-Fi Anda mendukung mode monitor (monitor mode).
+# - Jalankan script dengan hak akses root: `sudo bash Ghost-Vuln-Scanner-Wifi.sh`
+# - Script akan membuat file temp (ghost_v19_intel-01.csv) dan laporan akhir
+#   (GHOST_FINAL_AUDIT.txt).
+#
+# --- B. Paket Python (opsional) ---
+# Jika Anda ingin menggunakan `pip install -r requirements.txt`, maka paket di bawah
+# ini akan terinstal. Paket ini bukan persyaratan untuk tool, tapi bisa berguna
+# saat Anda membuat wrapper / tambahan antarmuka Python.
 
 rich>=13.0.0

@@ -61,9 +61,16 @@ Dengan tampilan terminal bergaya _hacker_, Ghost memberi visibilitas real-time k
   <img src="/img/Ghost-Vuln-Scanner-Wifi-proses-scan.png" alt="Sneijderlino Banner" width="100%" style="border-radius:12px; box-shadow:0 0 25px #00fff7;">
 </p>
 
+
+---
+
+
+> 🎛️ Tampilan  Ghost Vuln Scanner Setelah WiFi Scanner Berhenti.
+
 <p align="center">
   <img src="/img/Ghost-Vuln-Scanner-Wifi-akhir.png" alt="Sneijderlino Banner" width="100%" style="border-radius:12px; box-shadow:0 0 25px #00fff7;">
 </p>
+
 ---
 
 ## 🗂️ Struktur Folder Project
