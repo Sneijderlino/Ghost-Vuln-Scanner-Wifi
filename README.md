@@ -17,7 +17,7 @@
 
 **Ghost Vuln Scanner WiFi** adalah _tool_ keamanan jaringan Wi-Fi yang dirancang untuk membantu pentester dan operator red team melakukan pemetaan, audit, dan analisis cepat terhadap infrastruktur nirkabel.
 
-Dengan tampilan terminal bergaya _hacker_, Ghost memberi visibilitas real-time ke: SSID, BSSID, topologi klien, vendor, dan rekomendasi aksi taktis.
+Ghost memberi visibilitas real-time ke: SSID, BSSID, topologi klien, vendor, dan rekomendasi aksi taktis.
 
 > ⚠️ **Disclaimer penting**: Gunakan tool ini hanya untuk pengujian yang sah (authorized testing). Jangan gunakan pada jaringan tanpa izin eksplisit.
 
