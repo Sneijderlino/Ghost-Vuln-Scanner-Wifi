@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="/img/Ghost-Vuln-Scanner-WifiAwal.png" alt="GitHub Repo Stats" />
+  <img src="/img/Ghost-Vuln-Scanner-WifiAwal.png" alt="Sneijderlino Banner" width="100%" style="border-radius:12px; box-shadow:0 0 25px #00fff7;">
 </p>
 
 ---
@@ -58,10 +58,11 @@ Dengan tampilan terminal bergaya _hacker_, Ghost memberi visibilitas real-time k
 > 🎛️ Tampilan utama Ghost Vuln Scanner WiFi saat berjalan.
 
 <p align="center">
-  <img src="img/Ghost-Vuln-Scanner-Wifi-proses-scan.png" alt="Preview Ghost Vuln Scanner WiFi" style="max-width: 100%; border: 1px solid #222;" />
+  <img src="/img/Ghost-Vuln-Scanner-Wifi-proses-scan.png" alt="Sneijderlino Banner" width="100%" style="border-radius:12px; box-shadow:0 0 25px #00fff7;">
 </p>
+
 <p align="center">
-  <img src="img/Ghost-Vuln-Scanner-Wifi-akhir.png" alt="Preview Ghost Vuln Scanner WiFi" style="max-width: 100%; border: 1px solid #222;" />
+  <img src="/img/Ghost-Vuln-Scanner-Wifi-akhir.png" alt="Sneijderlino Banner" width="100%" style="border-radius:12px; box-shadow:0 0 25px #00fff7;">
 </p>
 ---
 

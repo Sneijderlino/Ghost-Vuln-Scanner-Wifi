@@ -1,0 +1,21 @@
+# System
+.DS_Store
+Thumbs.db
+
+# Logs and reports
+*.log
+*.tmp
+GHOST_FINAL_AUDIT.txt
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# OS files
+ehthumbs.db
+Icon?
+
+# Python caches (if any)
+__pycache__/
+*.pyc
